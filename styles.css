@@ -1,0 +1,63 @@
+body{
+    background-color: #9f9f9f;
+}
+
+header{
+    background-color: darkcyan;
+    max-width: 266px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.container{
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+#textBox1{
+    width: 16.6rem;
+    border: 1px solid black;
+    height: 40px;
+}
+
+table{
+   margin: 0 auto;
+   border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+}
+
+.buttons {
+    width: 60px;
+    height: 60px;
+    background-color: darkcyan;
+}
+
+.operators {
+    width: 60px;
+    height: 60px;
+    background-color: darkcyan;
+}
+
+.clear {
+    width: 60px;
+    height: 60px;
+    background-color: darkcyan;
+}
+
+.delete {
+    width: 60px;
+    height: 60px;
+    background-color: darkcyan;
+}
+
+.compute{
+    width: 126px;
+    height: 60px;
+    background-color: darkcyan;
+};
